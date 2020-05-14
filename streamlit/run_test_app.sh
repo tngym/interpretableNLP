@@ -1,0 +1,1 @@
+sudo docker run --rm -it -p 8501:8501 mlapp:0.0.1 streamlit hello

@@ -1,0 +1,1 @@
+sudo docker build -t mlapp:0.0.1 .
